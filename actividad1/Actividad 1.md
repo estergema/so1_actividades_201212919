@@ -28,7 +28,7 @@ La combinación del kernel monolítico y el microkernel se denomina kernel híbr
  - Un bloqueo del sistema en modo kernel es grave y complica las cosas.
 
 
-References
-Difference between user mode and kernel mode. (2022, January 4). GeeksforGeeks. https://www.geeksforgeeks.org/difference-between-user-mode-and-kernel-mode/
+- References
+*Difference between user mode and kernel mode. (2022, January 4). GeeksforGeeks. *https://www.geeksforgeeks.org/difference-between-user-mode-and-kernel-mode/
 
-Kernel - El núcleo del sistema operativo. (n.d.). IONOS Digital Guide. Retrieved February 5, 2023, from https://www.ionos.es/digitalguide/servidores/know-how/que-es-el-kernel/
+*Kernel - El núcleo del sistema operativo. (n.d.). IONOS Digital Guide. Retrieved February 5, 2023, from *https://www.ionos.es/digitalguide/servidores/know-how/que-es-el-kernel/
