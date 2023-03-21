@@ -1,14 +1,7 @@
 [Unit]
-Description=Ejemplo
-After=network.target
-StartLimitIntervalSec=0
+Description=Hello World Service
+After=systend-user-sessions.service
 
 [Service]
 Type=simple
-Restart=always
-RestartSec=1
-User=lorenzo
-ExecStart=/usr/bin/env python3 /home/estergema/Documents/SOPES1/so1_actividades_201212919/actividad4/service.py
-
-[Install]
-WantedBy=multi-user.target
+ExecStart=/home/estergema/Documents/SOPES1/so1_actividades_201212919/actividad4/sample.sh
